@@ -32,3 +32,44 @@ public class ComplexNumber {
 	}
 
 }
+
+Enter number of teachers:
+1
+Enter teacher details one by one..
+Enter details of teacher 1
+Enter teacher id:
+1
+Enter employee id of teacher 1:
+101
+Enter teacher name:
+abc
+Enter teacher gender:
+female
+Enter teacher address:
+kerala
+Enter teacher age:
+28
+Enter teacher company:
+ghss school
+Enter teacher department:
+english
+Enter teacher qualification:
+bed
+Enter teacher subject:
+literature
+Enter teacher salary:
+15000
+Teachers are:
+
+Teacher id: 101
+Teacher name: abc
+Teacher gender: female
+Teacher address: kerala
+Teacher age: 28
+Teacher company name: ghss school
+Teacher qualification: bed
+Teacher salary: 15000.0
+Teacher teacher id: 1
+Teacher subject: literature
+Teacher department: english
+
