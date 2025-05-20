@@ -6,3 +6,22 @@ Addition of two numbers:80.0
 Subtraction of two numbers:20.0
 Multiplication of two numbers:1500.0
 Division of two numbers:1.6666666666666667
+
+output of figures:
+
+Enter the side of the square:
+8
+Perimeter: 32
+Area: 64
+Enter the radius of the circle: 
+6
+Perimeter: 37.68
+Area: 113.03999999999999
+Enter the side1 of triangle: 
+10
+Enter the side2 of triangle: 
+15
+Enter the side3 of triangle: 
+15
+Perimeter: 40
+Area: 4.47213595499958
